@@ -1,16 +1,14 @@
-## Hi there 👋
+### olá, tudo bem 👋
 
-<!--
+
 **Fabiohenrique07/Fabiohenrique07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+minha vida
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🔭 Atualmente estou estudando e fazendo curso
+-🌱 Atualmente estou aprendendo ingles, alemão e TI
+-🤔 Preciso de ajuda com codigos de TI
+-💬 Pergunte-me sobre minha vida
+-📫 Como me contatar: <https://www.linkedin.com/in/fabio-h>
+-😄 hobbes: futebol, volei e academia
+-⚡ Curiosidade: gosto de viajar 
